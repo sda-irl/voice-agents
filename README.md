@@ -57,7 +57,7 @@ Each branch supports a different user intent and helps guide the conversation ef
 ## Reflection Questions
 
 ### Branch Design Challenge
-The most challenging part of designing the conversation branches was ensuring overlap between user intents did not create confusion. Many user requests could fall into multiple categories, which required careful structuring of responses to keep conversations consistent.
+The most challenging part of designing the conversation branches was ensuring overlap between user intents did not create confusion. Many user requests could fall into multiple categories, which required careful structuring of responses to keep conversations consistent. Testing is also an issue as I have to be careful of data, enterprise policy, and what activities I allow/perform/admin on WC domains. 
 
 ### Knowledge Base Impact
 The knowledge base significantly improved response quality. Content that included clear steps and structured explanations worked better than general descriptions because the agent could guide users more effectively.
