@@ -49,7 +49,8 @@ Each branch supports a different user intent and helps guide the conversation ef
 
 
 
-![Agent Screenshot](Screenshot 2026-04-30 162734.png)
+![Agent Screenshot]<img width="1906" height="1108" alt="Screenshot 2026-05-11 145148" src="https://github.com/user-attachments/assets/33d0b183-30b2-4a83-9ef0-707422c9acff" />
+
 
 ---
 
