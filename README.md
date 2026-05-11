@@ -1,9 +1,4 @@
-# voice-agents
-An interactive voice agent that can answer questions, guide conversations, and provide information using ElevenLabs.io's free voice agent platform. 
-
-
-
- Voice Service Desk Assistant (ElevenLabs)
+ ###Voice Service Desk Agent (ElevenLabs)
 
 This project demonstrates a voice-based IT Service Desk Assistant built using ElevenLabs. The agent is designed to simulate real-world service desk interactions and support common technical scenarios.
 
@@ -52,9 +47,9 @@ Each branch supports a different user intent and helps guide the conversation ef
 
 ## Demo Screenshot
 
-_Add your ElevenLabs interface screenshot below_
 
-![Agent Screenshot](your-image-placeholder.png)
+
+![Agent Screenshot](Screenshot 2026-04-30 162734.png)
 
 ---
 
